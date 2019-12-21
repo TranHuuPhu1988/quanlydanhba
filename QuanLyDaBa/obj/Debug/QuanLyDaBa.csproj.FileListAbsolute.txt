@@ -1,0 +1,13 @@
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.exe.config
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.exe
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.pdb
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.csprojResolveAssemblyReference.cache
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.ftmQuanLyDaBa.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.Properties.Resources.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.csproj.GenerateResource.Cache
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.exe
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.pdb
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\bin\Debug\Data\Nhom.txt
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\bin\Debug\Data\TenLienLac.txt
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.add.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.AddTenLienLac.resources
